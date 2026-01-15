@@ -1,0 +1,8 @@
+{
+  "name": "EduObserva: Plataforma de Acompañamiento Docente",
+  "description": "Una plataforma colaborativa para supervisores y directores diseñada para observar, evaluar y retroalimentar la práctica docente basada en 9 dimensiones pedagógicas clave, con generación de informes mediante IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
